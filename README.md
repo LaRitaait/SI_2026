@@ -1,2 +1,2 @@
-## SI_2026  
-# Zofia Głowacka_21234
+# SI_2026  
+## Autor: Zofia Głowacka_21234
