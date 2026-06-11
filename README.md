@@ -8,5 +8,6 @@
 - [Laboratorium_4_cz2](Lab4_cz2_21234.ipynb)
 
 ### Projekt:
-[Projekt_21234](Projekt_21234)
-Projekt należy uruchomić z pliku *app.py*
+[Projekt_21234](Projekt_21234)  
+- Projekt należy uruchomić z pliku *app.py*  
+- Niezbędne foldery do działania programu to: *data* oraz *chroma_db*
