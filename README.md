@@ -21,4 +21,13 @@ Car AI Assistant to prosty system RAG (Retrieval-Augmented Generation) oparty na
 - Wyszukiwanie semantyczne z wykorzystaniem ChromaDB i embeddings
 - Analiza danych za pomocą Pandas
 - Streaming odpowiedzi w czasie rzeczywistym
-- Odpowiadanie na pytania dotyczące samochodów, np.:
+- Odpowiadanie na pytania (proste i złożone) dotyczące samochodów
+
+#### *Działanie*  
+1. Użytkownik wgrywa plik Excel z danymi o samochodach.
+   
+
+
+
+
+
